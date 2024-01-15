@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
+.navbar {
+  background-color: #405440;
+  color: #fff;
+}
+.jumbotron {
+  padding-top: 120px;
+  background-color: #405440;
+  color: #fff;
+}
+#projects {
+  background-color: #405440;
+  color: #fff;
+}
+.btn {
+  background-color: #c67b45;
+  color: #fff;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+footer {
+  background-color: #405440;
+  padding-bottom: 10px;
+}
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+h3 {
+  font-size: 38px;
+}
+.navbar-brand {
+  font-size: 26px;
+  font-family: "Bungee", sans-serif;
+  color: #c67b45;
+}
+.navbar-nav {
+  font-size: 18px;
+}
